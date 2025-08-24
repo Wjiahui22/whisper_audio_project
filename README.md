@@ -1,5 +1,6 @@
-project_name: Whisper Audio Transcription & Keyword Extraction
-description: >
+project: Whisper Audio Transcription & Keyword Extraction
+
+description: 
   This project uses OpenAI Whisper to transcribe .wav audio files and extract key
   information such as colors, brands/items, and durations using Regex and word2number.
   A sample audio file (stroller.wav) is included for testing.
